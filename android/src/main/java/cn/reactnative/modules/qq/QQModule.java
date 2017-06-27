@@ -66,7 +66,7 @@ public class QQModule extends ReactContextBaseJavaModule implements IUiListener,
         super(context);
 
 
-        this.appId = "1105711546";
+        this.appId = "1106174082";
     }
 
     @Override
