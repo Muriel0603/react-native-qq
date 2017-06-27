@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-qq@^2.0.0",
+        "scope": null,
+        "escapedName": "react-native-qq",
+        "name": "react-native-qq",
+        "rawSpec": "^2.0.0",
+        "spec": ">=2.0.0 <3.0.0",
+        "type": "range"
+      },
+      "/Users/zhanghuan/ReactNativeProjects/RunnerCampShop"
+    ]
+  ],
+  "_cnpm_publish_time": 1476410853513,
+  "_from": "git+https://github.com/PhoenixZhang123/react-native-qq.git",
+  "_id": "react-native-qq@2.0.0",
+  "_inBundle": false,
+  "_inCache": true,
+  "_integrity": "sha1-BY93yoruf5IlJnucMgSg9QW9MgI=",
+  "_location": "/react-native-qq",
+  "_nodeVersion": "6.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-qq-2.0.0.tgz_1476410852465_0.7092636749148369"
+  },
+  "_npmUser": {
+    "name": "tdzl2003",
+    "email": "tdzl2003@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-qq@git+https://github.com/PhoenixZhang123/react-native-qq.git",
+    "name": "react-native-qq",
+    "escapedName": "react-native-qq",
+    "rawSpec": "git+https://github.com/PhoenixZhang123/react-native-qq.git",
+    "saveSpec": "git+https://github.com/PhoenixZhang123/react-native-qq.git",
+    "fetchSpec": "https://github.com/PhoenixZhang123/react-native-qq.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/runner-camp-shop"
+  ],
+  "_resolved": "git+https://github.com/PhoenixZhang123/react-native-qq.git#7d2494061c51fbffc76f093bc330fe1d7b246e63",
+  "_shasum": "a5f5f2a821e88adf2b1e59b164b6726bfe456f08",
+  "_shrinkwrap": null,
+  "_spec": "react-native-qq@git+https://github.com/PhoenixZhang123/react-native-qq.git",
+  "_where": "/Users/ios_app_01/runner.camp-uapp/node_modules/runner-camp-shop",
+  "author": {
+    "name": "tdzl2003"
+  },
+  "bugs": {
+    "url": "https://github.com/reactnativecn/react-native-qq/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "QQ Login&Share support in React Native.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a5f5f2a821e88adf2b1e59b164b6726bfe456f08",
+    "size": 2747316,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/react-native-qq/download/react-native-qq-2.0.0.tgz"
+  },
+  "gitHead": "85a12b4da85b4094e1f6049bbdfe525f93705129",
+  "homepage": "https://github.com/reactnativecn/react-native-qq#readme",
+  "keywords": [
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "lvbingru",
+      "email": "lvbingru@gmail.com"
+    },
+    {
+      "name": "tdzl2003",
+      "email": "tdzl2003@gmail.com"
+    }
+  ],
+  "name": "react-native-qq",
+  "optionalDependencies": {},
+  "publish_time": 1476410853513,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactnativecn/react-native-qq.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.0"
+}
